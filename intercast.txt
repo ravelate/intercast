@@ -1,0 +1,7 @@
+API
+
+1. https://rapidapi.com/KishCom/api/covid-19-coronavirus-statistics/
+2. https://rapidapi.com/weatherbit/api/weather/
+3. https://rapidapi.com/webit/api/webit-news-search
+4. https://rapidapi.com/fyhao/api/currency-exchange/
+5. https://rapidapi.com/digiwalls/api/free-to-play-games-database/
